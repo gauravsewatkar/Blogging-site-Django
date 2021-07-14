@@ -9,7 +9,7 @@ This is the blogging site made using Django framework .
 
 
 
-# To Run this project follow th following instructions :
+# To Run this project follow the following instructions :
 
 ### **Note** : Python 3.8 is needed to run this project
 
