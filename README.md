@@ -11,7 +11,8 @@ This is the blogging site made using Django framework .
 
 # To Run this project follow the following instructions :
 
-### **Note** : Python 3.8 is needed to run this project
+### **Note** : Python 3.8 and Django 3.2 is needed to run this project.
+              
 
 
 #### First Clone the project
